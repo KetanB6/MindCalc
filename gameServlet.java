@@ -10,9 +10,6 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Random;
 
-/**
- * Servlet implementation class gameServlet
- */
 @WebServlet("/gameServlet")
 public class gameServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
@@ -111,3 +108,4 @@ public class gameServlet extends HttpServlet {
 	}
 
 }
+
