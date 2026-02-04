@@ -11,7 +11,7 @@ import java.util.Random;
 @WebServlet("/healthServlet")
 public class healthServlet extends HttpServlet {
 
-    public gameServlet() {
+    public healthServlet() {
         super();
     }
 
